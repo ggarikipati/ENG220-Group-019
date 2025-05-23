@@ -13,8 +13,5 @@ st.markdown(
 
     Use the **sidebar** to navigate between the available pages.
     
-    Each page presents visualizations for a specific dataset such as:
-    - US_NM_35001.csv
-    - US_TX_48029.csv
-    """
+    Each page presents visualizations for a specific dataset   """
 )
