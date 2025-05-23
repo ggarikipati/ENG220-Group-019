@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.title("Dataset 2 - US_TX_48029.csv")
+st.title("EPI.csv")
 
 data = pd.read_csv("./EPI.csv")
 
